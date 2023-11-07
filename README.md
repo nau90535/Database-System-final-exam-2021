@@ -9,3 +9,7 @@ Practicing using RMDBS
   d. For each project, retrieve the project number, the project name, and the number of employees who work on that project.  
   e. For each project on which more than two employees work, retrieve the project number, the project name, and the number of employees who work on the project.  
   f. Make a list of all project names for projects that involve an employee whose last name is \'Smith\' as a worker or as a manager of the department that controls the project.  
+
+  
+create a database like example:
+![database example](https://github.com/nau90535/Database-System-final-exam-2021/blob/main/database_example.pdf)
